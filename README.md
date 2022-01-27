@@ -1,3 +1,3 @@
 # HTML5
 Repo for HTML5 study
-Created by 27.01.2022
+Created on 27.01.2022
